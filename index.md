@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![title](assets/img/title.png)
+![title](/assets/img/title.png)
 
 <br />
 
